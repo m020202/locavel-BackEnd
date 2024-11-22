@@ -8,6 +8,11 @@
 <br>
 <br>
 
+## System Architecture
+<div align="center">
+  ![스크린샷 2024-11-22 오후 2 11 34](https://github.com/user-attachments/assets/f483a6b8-29c9-4367-b9cb-bba0c094e4b4)
+</div>
+
 ## Members
 
 |                         김민지                         |                            김정효                            |                         문정욱                         |                          유세정                          |                        이상은                        |
