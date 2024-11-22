@@ -10,7 +10,7 @@
 
 ## System Architecture
 <div align="center">
-  <img width = 900, src="https://github.com/user-attachments/assets/f483a6b8-29c9-4367-b9cb-bba0c094e4b4">
+  <img width = 900, src="https://github.com/user-attachments/assets/a3285b4e-9c44-4126-9384-2bada11f4f9b">
 </div>
 
 ## Members
