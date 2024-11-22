@@ -8,13 +8,13 @@
 <br>
 <br>
 
-## System Architecture
+## 📌 아키텍처 구조
 <div align="center">
   <img width = 900, src="https://github.com/user-attachments/assets/a3285b4e-9c44-4126-9384-2bada11f4f9b">
 </div>
 
-## Members
-
+## 🙋‍♂️ Contributors
+ 
 |                         김민지                         |                            김정효                            |                         문정욱                         |                          유세정                          |                        이상은                        |
 |:------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------------------:|
 |  <img src="https://github.com/qzzloz.png" width="250"> |   <img src="https://github.com/J-neat.png" width="250">   |  <img src="https://github.com/m020202.png" width="250">   | <img src="https://github.com/Yoosejeong.png" width="250">| <img src="https://github.com/KkomSang.png" width="250"> |
@@ -25,7 +25,7 @@
 <br>
 <br>
 
-## Service
+## 💻 서비스 소개
 <div align="center">
   <img width = 400, src="https://github.com/user-attachments/assets/8580ed3e-8fc2-4675-9ae9-ee9f8cc7d9fb">
   <img width = 400, src="https://github.com/user-attachments/assets/1da88121-92e1-476c-9794-47d1e674761a">
