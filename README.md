@@ -10,7 +10,7 @@
 
 ## System Architecture
 <div align="center">
-  ![스크린샷 2024-11-22 오후 2 11 34](https://github.com/user-attachments/assets/f483a6b8-29c9-4367-b9cb-bba0c094e4b4)
+  <img width = 900, src="[https://github.com/user-attachments/assets/200e0183-5c9f-430d-99bc-5166cb9a7b96](https://github.com/user-attachments/assets/f483a6b8-29c9-4367-b9cb-bba0c094e4b4)">
 </div>
 
 ## Members
